@@ -1,4 +1,4 @@
 Added first line
 added second line
-int a = 100
+int a = 10
 
